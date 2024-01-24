@@ -1,1 +1,1 @@
-LDAP Service enabled.
+Logs lel lookup service --> service classes --> update batch.
