@@ -1,1 +1,1 @@
-Logs lel lookup service --> service classes --> update batch.
+ContractType and Types have been switched
